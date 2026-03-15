@@ -25,4 +25,4 @@ Known issues
   - it takes some time for mine to start popping up, but keeps running once the first ones get running. Maybe run this on a smaller model or get more vram?
  
 Final notes
-I dont know if I want to improve this or just abandon it, but if I find the time eventually I'll try.
+- I dont know if I want to improve this or just abandon it, but if I find the time eventually I'll try.
